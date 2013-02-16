@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!--
+	AngularJS Intellisense for Visual Studio v0.1
+	Brent McKendrick
+	http://refactorthis.wordpress.com
+-->
+<xsd:schema
+	xmlns:xsd='http://www.w3.org/2001/XMLSchema'>
+
+	<xsd:attributeGroup name="angularJSCoreAttributeGroup">
+		<xsd:attribute name="ng-app" type="xsd:string" />
+		<xsd:attribute name="ng-app" type="xsd:string" />
+		<xsd:attribute name="ng-bind" type="xsd:string" />
+		<xsd:attribute name="ng-bind-html-unsafe" type="xsd:string" />
+		<xsd:attribute name="ng-bind-template" type="xsd:string" />
+		<xsd:attribute name="ng-change" type="xsd:string" />
+		<xsd:attribute name="ng-checked" type="xsd:string" />
+		<xsd:attribute name="ng-class" type="xsd:string" />
+		<xsd:attribute name="ng-class-even" type="xsd:string" />
+		<xsd:attribute name="ng-class-odd" type="xsd:string" />
+		<xsd:attribute name="ng-click" type="xsd:string" />
+		<xsd:attribute name="ng-cloak" type="xsd:string" />
+		<xsd:attribute name="ng-controller" type="xsd:string" />
+		<xsd:attribute name="ng-csp" type="xsd:string" />
+		<xsd:attribute name="ng-dblclick" type="xsd:string" />
+		<xsd:attribute name="ng-disabled" type="xsd:string" />
+		<xsd:attribute name="ng-form" type="xsd:string" />
+		<xsd:attribute name="ng-hide" type="xsd:string" />
+		<xsd:attribute name="ng-href" type="xsd:string" />
+		<xsd:attribute name="ng-include" type="xsd:string" />
+		<xsd:attribute name="ng-init" type="xsd:string" />
+		<xsd:attribute name="ng-list" type="xsd:string" />
+		<xsd:attribute name="ng-model" type="xsd:string" />
+		<xsd:attribute name="ng-mousedown" type="xsd:string" />
+		<xsd:attribute name="ng-mouseenter" type="xsd:string" />
+		<xsd:attribute name="ng-mouseleave" type="xsd:string" />
+		<xsd:attribute name="ng-mousemove" type="xsd:string" />
+		<xsd:attribute name="ng-mouseover" type="xsd:string" />
+		<xsd:attribute name="ng-mouseup" type="xsd:string" />
+		<xsd:attribute name="ng-multiple" type="xsd:string" />
+		<xsd:attribute name="ng-non-bindable" type="xsd:string" />
+		<xsd:attribute name="ng-pluralize" type="xsd:string" />
+		<xsd:attribute name="ng-readonly" type="xsd:string" />
+		<xsd:attribute name="ng-repeat" type="xsd:string" />
+		<xsd:attribute name="ng-selected" type="xsd:string" />
+		<xsd:attribute name="ng-show" type="xsd:string" />
+		<xsd:attribute name="ng-src" type="xsd:string" />
+		<xsd:attribute name="ng-style" type="xsd:string" />
+		<xsd:attribute name="ng-submit" type="xsd:string" />
+		<xsd:attribute name="ng-switch" type="xsd:string" />
+		<xsd:attribute name="ng-transclude" type="xsd:string" />
+		<xsd:attribute name="ng-view" type="xsd:string" />
+	</xsd:attributeGroup>
+
+</xsd:schema>
+
